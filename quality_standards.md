@@ -1,44 +1,39 @@
-# Quality Standards 🌟
+# Excellence Aspirations ⭐️⭐️⭐️⭐️⭐️
 
-## Core Values
-- **Everything** should be:
-  - Thoughtful & intentional
-  - Beautiful
+This document shows what quality aspirations we have in various domains related to all Outtalent's services, products, and interactions.
+
+## Everything 🌎
+  - Thoughtful
+  - Friendly
   - Pleasant
   - Uplifting
 
-## Visual Design 🎨
-### Design Principles
-- Beautiful & pleasant to look at
-- Simple & minimalist
-- Simple consistent colors
-- Use minimum number of colors
-- Colorful but thoughtful
+
+## All Visual Design 🎨
+### Key Principles
+- Colorful
+- Organized
+- Beautiful
+- Consistent
+- Minimalist
+
+### Specifics on imagery
+- Consistent images (static images or animated images)
+    - *Encouraged*: Photos, screenshots of movies or cartoons
+    - *Avoid*: Images or drawings of random styles
 
 ### Inspiration
-- **Digital Examples**: Airtable, Quanta
-- **Physical Examples**: WeWork
+- **Digital Examples**: [Airtable](https://www.google.com/search?q=WeWork+colors&tbm=isch), [Quanta Magazine](https://www.youtube.com/watch?v=_bJeKUosqoY&t=123s)
+- **Physical Examples**: [WeWork](https://www.google.com/search?q=WeWork+offices&tbm=isch)
 
-### Organization
-- Neatly organized
-- Consistently-aligned
-- Consistent across all platforms
-- Consistent images
-- GIFs & images should be:
-  - Photos
-  - Screenshots of movies
-  - Cartoons
-  - *Avoid*: Various images or drawings of random styles
 
-## Content Quality 📝
-### Text Content
+## Any Content 📊
+- Kind
 - Correct
 - Clear & easy to understand
-- Balance between concise and friendly (using emojis & fun GIFs)
-- Kind
-- Intelligent
+- Balanced between being concise and being friendly (e.g. in the use of emojis and GIFs)
 
-### Visual Text Presentation
+## Visual Text Presentation 🔤
 - Visually pleasant to look at
 - Easy & pleasant to read
 - Small, neatly-organized chunks of text
@@ -46,7 +41,7 @@
 
 ## Communication Standards 🗣️
 ### Voice
-- No accent or minimal, pleasant accent in English
+- Native accent in English is encouraged but it must be clearly understandable and pleasant to listen to
 
 ### Audio Quality
 - High-quality sound
@@ -122,4 +117,4 @@
 - Delicious
 
 ---
-*This document serves as a comprehensive guide for maintaining high-quality standards across all aspects of our work and interactions.* 
+We can never be perfect but we want to provide high-quality experiences and lead to great results for everyone for everyone who interacts with us.
