@@ -15,7 +15,7 @@ We want all services, products, and interactions to be:
 ### Key Principles
 - Organized
 - Consistent
-- Balance between being minimalist and concise with being friendly and playful
+- Balanced between being minimalist and concise with being friendly and playful
 
 ### Specifics on imagery
 - Consistent images (static images or animated images)
@@ -25,11 +25,6 @@ We want all services, products, and interactions to be:
 ### Inspiration
 - **Digital Examples**: [Airtable](https://www.google.com/search?q=Airtable+interface&tbm=isch), [Quanta Magazine](https://www.youtube.com/watch?v=_bJeKUosqoY&t=123s)
 - **Physical Examples**: [WeWork](https://www.google.com/search?q=WeWork+offices&tbm=isch)
-
-### Keywords
-
-- Colorful like Google Maps and Airtable
-- 
 
 ## Any Content 📊
 - Kind
