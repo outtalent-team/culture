@@ -1,8 +1,10 @@
 # Excellence Aspirations ⭐️⭐️⭐️⭐️⭐️
 
-This document shows what quality aspirations we have in various domains related to all Outtalent's services, products, and interactions.
+This document shows what quality aspirations we have in various domains related to Outtalent's services, products, and interactions.
 
 ## Everything 🌎
+
+We want all services, products, and interactions to be:
   - Thoughtful
   - Friendly
   - Pleasant
@@ -11,11 +13,9 @@ This document shows what quality aspirations we have in various domains related 
 
 ## All Visual Design 🎨
 ### Key Principles
-- Colorful
 - Organized
-- Beautiful
 - Consistent
-- Minimalist
+- Balance between being minimalist and concise with being friendly and playful
 
 ### Specifics on imagery
 - Consistent images (static images or animated images)
@@ -23,15 +23,19 @@ This document shows what quality aspirations we have in various domains related 
     - *Avoid*: Images or drawings of random styles
 
 ### Inspiration
-- **Digital Examples**: [Airtable](https://www.google.com/search?q=WeWork+colors&tbm=isch), [Quanta Magazine](https://www.youtube.com/watch?v=_bJeKUosqoY&t=123s)
+- **Digital Examples**: [Airtable](https://www.google.com/search?q=Airtable+interface&tbm=isch), [Quanta Magazine](https://www.youtube.com/watch?v=_bJeKUosqoY&t=123s)
 - **Physical Examples**: [WeWork](https://www.google.com/search?q=WeWork+offices&tbm=isch)
 
+### Keywords
+
+- Colorful like Google Maps and Airtable
+- 
 
 ## Any Content 📊
 - Kind
 - Correct
 - Clear & easy to understand
-- Balanced between being concise and being friendly (e.g. in the use of emojis and GIFs)
+- Balanced between being concise and being friendly & playful (e.g. in the use of emojis and GIFs)
 
 ## Visual Text Presentation 🔤
 - Visually pleasant to look at
@@ -49,15 +53,23 @@ This document shows what quality aspirations we have in various domains related 
 - Monitor and address any sound quality issues
 
 ### Video Interactions
-- Beautiful real background (no fake backgrounds)
-- Ideal background includes:
-  - Diverse objects
-  - Plants
-  - Fun elements
+- We encourage real background for sincerity, realness, transparency, and trust.
+- We strongly discourage blurring and standard Zoom backgrounds (e.g. Golden Gate Bridge in San Francisco). We believe it often shows opaqueness and a lack of intentionality and thoughtfulness.
+- We encourage the following in your background:
+  - Things that represent your values (e.g. favorite books, a guitar, awards)
+  - Plants (we hope it represents your values too 😂)
+  - Fun or playful elements
+  - Other diverse objects
+  - Please don't go overboard with adding background elements not to make your background too fake
+- If great real background is too challenging to arrange at the moment, please use a unique and intentional background.
+  - It could be something represents your values, maybe something fun (e.g a background from your favorite painting or even better an empty Simpsons couch background in case you really love The Simpsons)
+
 - High-quality lighting
   - Natural light through windows
-  - Sun falling on face
+  - Sun falling on your face
+
 - High-quality camera
+
 - Professional positioning:
   - Looking at camera
   - Normal camera angle
