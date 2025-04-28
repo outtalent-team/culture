@@ -91,16 +91,17 @@ We want all services, products, and interactions to be:
 - Fast
 
 ## Human Interaction 👥
-### Physical Attributes
-- Healthy
-- Well-groomed
-- Well-dressed
-- High energy (well-rested, well-nourished)
 
 ### Personal Qualities
 - Smart
 - Kind, empathetic, positive, uplifting, respectful
 - Fun, great sense of humor
+
+### Physical Attributes
+- Healthy
+- Well-groomed
+- Well-dressed
+- High energy (well-rested, well-nourished)
 
 ## Physical Environment 🌿
 ### Settings
