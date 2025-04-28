@@ -1,15 +1,23 @@
-# Excellence Aspirations ⭐️⭐️⭐️⭐️⭐️
+# Excellence Aspirations at Outtalent 🌟
 
-This document shows what quality aspirations we have in various domains related to all Outtalent's services, products, and interactions.
+At Outtalent, we believe great things happen when excellence, kindness, and thoughtful action come together.
+These guidelines help us keep everything we do — from emails to Zoom calls to workshops — aligned with the spirit that drives us: helping people dream bigger and achieve more.
 
-## Everything 🌎
+## Everything should feel 🌎
   - Thoughtful
   - Friendly
   - Pleasant
   - Uplifting
 
 
-## All Visual Design 🎨
+## Everything should look 🎨
+- Colorful, but clean
+- Organized and easy to navigate
+- Beautiful and balanced
+- Consistent across all platforms
+- Minimalist, but not cold
+
+
 ### Key Principles
 - Colorful
 - Organized
@@ -27,29 +35,29 @@ This document shows what quality aspirations we have in various domains related 
 - **Physical Examples**: [WeWork](https://www.google.com/search?q=WeWork+offices&tbm=isch)
 
 
-## Any Content 📊
+## Every piece of text shoudl be 📊
 - Kind
 - Correct
 - Clear & easy to understand
 - Balanced between being concise and being friendly (e.g. in the use of emojis and GIFs)
 
-## Visual Text Presentation 🔤
+## Formatting matters too 🔤
 - Visually pleasant to look at
 - Easy & pleasant to read
 - Small, neatly-organized chunks of text
 - Consistent across platforms (organization, font, sizes)
 
 ## Communication Standards 🗣️
-### Voice
+### Speaking
 - Native accent in English is encouraged but it must be clearly understandable and pleasant to listen to
 
-### Audio Quality
+### Sound Quality
 - High-quality sound
 - Check sound quality at the beginning
 - Monitor and address any sound quality issues
 
-### Video Interactions
-- Beautiful real background (no fake backgrounds)
+### Video Quality
+- Beautiful real backgrounds only - no fake backgrounds
 - Ideal background includes:
   - Diverse objects
   - Plants
@@ -63,7 +71,7 @@ This document shows what quality aspirations we have in various domains related 
   - Normal camera angle
   - Appropriate face size in frame
 
-## Educational Content 📚
+## Our teaching style 📚
 - Explain complex things simply
 - Sequential learning approach
 - Kind & friendly tone
@@ -71,17 +79,17 @@ This document shows what quality aspirations we have in various domains related 
 - Fun & entertaining
 - Include human faces where possible
 
-### Data Visualization
+### When showing data 📊
 - Use consistent software:
   - Scientific software
   - Notion
   - Text-based
 - *Avoid*: Inconsistent styles (e.g., unusual colors, outdated graphics)
 
-## Software Experience 💻
-- Pleasant
-- Intuitive
-- Fast
+## Our software shoudl always feel 💻
+- Smooth and intuitive
+- Fast and reliable
+- Designed with humans in mind
 
 ## Human Interaction 👥
 ### Physical Attributes
@@ -97,23 +105,14 @@ This document shows what quality aspirations we have in various domains related 
 
 ## Physical Environment 🌿
 ### Settings
-- Great air quality
-- Plants & flowers
-- Pleasant temperature
-- Pleasant lighting
-- Natural lighting (controlled)
-- Intentional artwork
+- Air quality matters — fresh and clean
+- Add life: plants, flowers, intentional artwork
+- Lighting should be warm and natural whenever possible
+- Materials (furniture, tools) should feel pleasant and high-quality
+- Comfortable seating and good working conditions are non-negotiable
 
-### Materials & Furniture
-- Pleasant to touch and operate
-- Durable
-- Comfortable seating
-- Appropriate height
-- Pleasant softness
-- Quality materials
-
-## Food & Refreshments 🍽️
-- Healthy
+## If we serve food, it should be 🍽️
+- Healthy and nourishing
 - Delicious
 
 ---
