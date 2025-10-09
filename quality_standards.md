@@ -5,10 +5,10 @@ This document shows what quality aspirations we have in various domains related 
 ## Everything 🌎
 
 We want all services, products, and interactions to be:
-  - Thoughtful
-  - Friendly
-  - Pleasant
-  - Uplifting
+- Thoughtful
+- Friendly
+- Pleasant
+- Uplifting
 
 Brands with similar values:
 - Apple - thoughtfulness, excellence
@@ -24,37 +24,40 @@ Brands with similar values:
 ### Key Principles
 - Organized
 - Consistent
+- Thoughtfully colorful
+- Pleasant to look at, beautiful
 - Balanced between being minimalist and concise with being friendly and playful
 
-### Specifics on imagery
-- Consistent images (static images or animated images)
-    - *Encouraged*: Photos, screenshots of movies or cartoons
-    - *Avoid*: Images or drawings of random styles
-
-### Inspiration
-- **Digital Examples**: [Airtable](https://www.google.com/search?q=Airtable+interface&tbm=isch), [Quanta Magazine](https://www.youtube.com/watch?v=_bJeKUosqoY&t=123s)
-- **Physical Examples**: [WeWork](https://www.google.com/search?q=WeWork+offices&tbm=isch)
+### Examples
+- [Airtable](https://www.google.com/search?q=Airtable+interface&tbm=isch) - software for tabled data
+- [Quanta Magazine](https://www.youtube.com/watch?v=_bJeKUosqoY&t=123s) - online magazine popularizing the latest science
+- [WeWork](https://www.google.com/search?q=WeWork+offices&tbm=isch) - global co-working space
 
 ## Any Content 📊
 - Kind
 - Correct
 - Clear & easy to understand
 - Balanced between being concise and being friendly & playful (e.g. in the use of emojis and GIFs)
+- Intelligent
+
+### Specifics on content
+- Use branded colors
+- Use consistent images (static images or animated images)
+    - *Encouraged*: Photos, screenshots of movies or cartoons
+    - *Avoid*: Images or drawings of random styles
 
 ## Visual Text Presentation 🔤
-- Visually pleasant to look at
+- Pleasant to look at
 - Easy & pleasant to read
-- Small, neatly-organized chunks of text
+  - Small, neatly-organized chunks of text
 - Consistent across platforms (organization, font, sizes)
 
 ## Communication Standards 🗣️
 ### Voice
-- Native accent in English is encouraged but it must be clearly understandable and pleasant to listen to
+- Native accent in English is ok as we celebrate global diversity but it must be clearly understandable and pleasant to listen to
 
 ### Audio Quality
-- High-quality sound
-- Check sound quality at the beginning
-- Monitor and address any sound quality issues
+- High-quality sound (always ask in the beginning of a call)
 
 ### Video Interactions
 - We encourage real background for sincerity, realness, transparency, and trust.
@@ -76,28 +79,27 @@ Brands with similar values:
 
 - Professional positioning:
   - Looking at camera
-  - Normal camera angle
+  - Normal camera angle (not looking down or looking up)
   - Appropriate face size in frame
 
 ## Educational Content 📚
 - Explain complex things simply
-- Sequential learning approach
-- Kind & friendly tone
-- Build visual intuition beautifully
-- Fun & entertaining
-- Include human faces where possible
+- Sequential learning approach (not expecting too much from the learner)
+- Kind & friendly tone (not arrogant or demeaning)
+- Build visual intuition beautifully (example: 3Blue1Brown)
+- Fun & entertaining, never boring
+- Include human faces where it makes sense
 
 ### Data Visualization
-- Use consistent software:
-  - Scientific software
-  - Notion
-  - Text-based
+- Use consistent software for graphs (scientific software or Notion or text-based option)
 - *Avoid*: Inconsistent styles (e.g., unusual colors, outdated graphics)
 
 ## Software Experience 💻
 - Pleasant
 - Intuitive
 - Fast
+
+###
 
 ## Human Interaction 👥
 
@@ -112,26 +114,29 @@ Brands with similar values:
 - Well-dressed
 - High energy (well-rested, well-nourished)
 
+###
+
 ## Physical Environment 🌿
 ### Settings
 - Great air quality
 - Plants & flowers
 - Pleasant temperature
-- Pleasant lighting
-- Natural lighting (controlled)
+- Pleasant lighting (a lot of natural lighting but controlled)
 - Intentional artwork
 
 ### Materials & Furniture
-- Pleasant to touch and operate
-- Durable
-- Comfortable seating
-- Appropriate height
-- Pleasant softness
+- Comfortable
+- Pleasant texture
+- Pleasant to operate
+- Pleasant softness (to touch/hold/sit etc)
+- Appropriate size
 - Quality materials
+- Durable
 
 ## Food & Refreshments 🍽️
 - Healthy
 - Delicious
 
----
+###
+
 We can never be perfect but we want to provide high-quality experiences and lead to great results for everyone for everyone who interacts with us.
