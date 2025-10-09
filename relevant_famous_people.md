@@ -1,11 +1,11 @@
 This file is meant to help you better feel what Outtalent communication style and general values are based on examples of famous people.
 
-We believe those famouse people represent all or many of the following values aligned with Outtalent:
+Obviously, non of those people are ideal and have some traits we don't approve of but generally we believe those famous people represent many of the following values aligned with Outtalent:
 - high level of empathy, social skills, and kindness
 - high level of intelligence and critical thinking
 - high level of integrity
 - being humble but very ambitious
-- humor & playfulness where appropriate
+- using humor & being playfulness where appropriate
 
 **Politics**
 - Barack Obama (United States)
@@ -28,11 +28,11 @@ We believe those famouse people represent all or many of the following values al
 **Sports**
 - Lewis Hamilton, Formula 1 (United Kingdom)
 - Valentina Shevchenko, UFC (Kyrgyzstan)
-- George St. Pierre, UFC (Canada) - although he is likely to believe in some things that we believe are irrational (e.g. conspiracy theories) 😅
+- George St. Pierre, UFC (Canada)
 - Daniel Cormier, UFC (United States)
 
 **Comedians & TV hosts**
-- Dave Chappelle (United States) - although he is likely to believe in some things that we believe are irrational (e.g. conspiracy theories) 😅
+- Dave Chappelle (United States)
 - Trevor Noah (South Africa)
 
 **Actors**
