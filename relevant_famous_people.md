@@ -15,10 +15,13 @@ We believe those famouse people represent all or many of the following values al
 - Grant Sanderson aka 3Blue1Brown (United States)
 - Brian Greene (United States)
 
+**Entrepreneurs**
+- Brian Chesky, Airbnb (United States)
+
 **Authors, thinkers, podcasters**
 - Tim Ferriss (United States)
 - Liv Boeree (United Kingdom)
-  
+
 **Investors**
 - Cathie Wood, Ark Invest (United States)
 
