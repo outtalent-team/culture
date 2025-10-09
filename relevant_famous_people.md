@@ -7,12 +7,18 @@ Obviously, non of those people are ideal and have some traits we don't approve o
 - being humble but very ambitious
 - using humor & being playfulness where appropriate
 
-**Education**
+**Educators**
 - Grant Sanderson aka 3Blue1Brown (United States)
 - Brian Greene (United States)
 
 **Entrepreneurs**
 - Brian Chesky, Airbnb (United States)
+- Demis Hassabis, DeepMind (United Kingdom)
+- Larry Page, Google (United States)
+- Sergey Brin, Google (United States)
+
+**Executives**
+- Eric Schmidt, Google (United States)
 
 **Authors, thinkers, podcasters**
 - Tim Ferriss (United States)
@@ -23,15 +29,16 @@ Obviously, non of those people are ideal and have some traits we don't approve o
 - Ben Horowitz, a16z (United States)
 - Cathie Wood, Ark Invest (United States)
 
-**Sports**
+**Sportsmen & sportswomen**
 - Lewis Hamilton, Formula 1 (United Kingdom)
 - Valentina Shevchenko, UFC (Kyrgyzstan)
 - George St. Pierre, UFC (Canada)
 - Daniel Cormier, UFC (United States)
 
 **Comedians & TV hosts**
-- Dave Chappelle (United States)
 - Trevor Noah (South Africa)
+- Dave Chappelle (United States)
+- Jimmy Kimmel (United States)
 
 **Actors**
 - Emma Watson (United Kingdom)
