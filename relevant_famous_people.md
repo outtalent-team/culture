@@ -19,6 +19,8 @@ Obviously, non of those people are ideal and have some traits we don't approve o
 - Liv Boeree (United Kingdom)
 
 **Investors**
+- Mark Andreesen, a16z (United States)
+- Ben Horowitz, a16z (United States)
 - Cathie Wood, Ark Invest (United States)
 
 **Sports**
