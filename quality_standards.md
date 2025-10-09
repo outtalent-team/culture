@@ -10,6 +10,15 @@ We want all services, products, and interactions to be:
   - Pleasant
   - Uplifting
 
+Brands with similar values:
+- Apple - thoughtfulness, excellence
+- Google - thoughtfulness, friendliness
+- Nike - motivation against a challenge, excellence, thoughtfulness
+- IKEA - thoughtfulness, quality
+- Tesla - thoughtfulness
+- Pixar - thoughtfulness, friendliness
+- Patagonia - thoughtfulness, excellence
+- SpaceX - inspiration, thoughtfulness, excellence
 
 ## All Visual Design 🎨
 ### Key Principles
