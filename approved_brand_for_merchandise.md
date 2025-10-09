@@ -23,7 +23,7 @@ Here are already pre-approved brands:
 - Patagonia
 - Lululemon
 - Uniqlo
-- Iridescent - this is Tilek's brand 😁
+- Iridescent (this is Tilek's brand 😁)
 
 **Skincare**
 - [Aesop](https://www.aesop.com/)
