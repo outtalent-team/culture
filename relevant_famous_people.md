@@ -48,7 +48,9 @@ Obviously, non of those people are ideal and have some traits we don't approve o
 
 **Politics**
 - Barack Obama (United States)
-- Volodymyr Zelenskyy (Ukraine)
 - Emmanuel Macron (France)
 - Garry Kasparov (Russia)
+- Imran Khan (Pakistan)
 - Maia Sandu (Moldova)
+- Roza Otunbayeva (Kyrgyzstan)
+- Volodymyr Zelenskyy (Ukraine)
