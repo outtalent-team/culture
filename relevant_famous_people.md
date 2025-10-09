@@ -1,6 +1,6 @@
-In this file you will find a list of famous people that we believe live or lived Outtalent values and interact with other people similar to the style of Outtalent.
+This file is meant to help you better feel what Outtalent communication style and general values are based on examples of famous people.
 
-We believe they represent the following values specifically:
+We believe those famouse people represent all or many of the following values aligned with Outtalent:
 - high level of empathy, social skills, and kindness
 - high level of intelligence and critical thinking
 - high level of integrity
@@ -11,16 +11,29 @@ We believe they represent the following values specifically:
 - Barack Obama (United States)
 - Garry Kasparov (Russia)
 
-**Men in tech, science or business**
-- Tim Ferriss
+**Education**
+- Grant Sanderson aka 3Blue1Brown (United States)
+- Brian Greene (United States)
 
-**Women in tech & science or business**
-- Liv Boeree
+**Authors, thinkers, podcasters**
+- Tim Ferriss (United States)
+- Liv Boeree (United Kingdom)
+  
+**Investors**
+- Cathie Wood, Ark Invest (United States)
+
+**Sports**
+- Lewis Hamilton, Formula 1 (United Kingdom)
+- Valentina Shevchenko, UFC (Kyrgyzstan)
+- George St. Pierre, UFC (Canada) - although he is likely to believe in some things that we believe are irrational (e.g. conspiracy theories) 😅
+- Daniel Cormier, UFC (United States)
 
 **Comedians & TV hosts**
-- Trevor Noah
+- Dave Chappelle (United States) - although he is likely to believe in some things that we believe are irrational (e.g. conspiracy theories) 😅
+- Trevor Noah (South Africa)
 
-**Actresses**
-- Emma Watson
-- Anne Hathaway
-- Jessica Alba
+**Actors**
+- Emma Watson (United Kingdom)
+- Anne Hathaway (United States)
+- Jessica Alba (United States)
+- Leonardo Di Caprio (United States)
