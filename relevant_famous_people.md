@@ -7,10 +7,6 @@ Obviously, non of those people are ideal and have some traits we don't approve o
 - being humble but very ambitious
 - using humor & being playfulness where appropriate
 
-**Politics**
-- Barack Obama (United States)
-- Garry Kasparov (Russia)
-
 **Education**
 - Grant Sanderson aka 3Blue1Brown (United States)
 - Brian Greene (United States)
@@ -40,3 +36,10 @@ Obviously, non of those people are ideal and have some traits we don't approve o
 - Anne Hathaway (United States)
 - Jessica Alba (United States)
 - Leonardo Di Caprio (United States)
+
+**Politics**
+- Barack Obama (United States)
+- Volodymyr Zelenskyy (Ukraine)
+- Emmanuel Macron (France)
+- Garry Kasparov (Russia)
+- Maia Sandu (Moldova)
