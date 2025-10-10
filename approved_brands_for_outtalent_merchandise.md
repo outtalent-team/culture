@@ -5,8 +5,6 @@ Here are already pre-approved brands:
 **Electronics**
 - Computer Electronics
   - Apple
-- Camera Electronics
-  - DJI
 - Home Electronics
   - Dyson
  
