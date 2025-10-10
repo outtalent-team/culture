@@ -10,7 +10,7 @@ We want all services, products, and interactions to be:
 - Pleasant
 - Uplifting
 
-Brands with similar values:
+Reference brands:
 - Apple - thoughtfulness, excellence
 - Google - thoughtfulness, friendliness
 - Nike - motivation against a challenge, excellence, thoughtfulness
@@ -28,10 +28,9 @@ Brands with similar values:
 - Pleasant to look at, beautiful
 - Balanced between being minimalist and concise with being friendly and playful
 
-### Examples
-- [Airtable](https://www.google.com/search?q=Airtable+interface&tbm=isch) - software for tabled data
+### References for visual design:
+- [Airtable](https://www.google.com/search?q=Airtable+interface&tbm=isch) - software for tabled data: thoughtful use of colors
 - [Quanta Magazine](https://www.youtube.com/watch?v=_bJeKUosqoY&t=123s) - online magazine popularizing the latest science
-- [WeWork](https://www.google.com/search?q=WeWork+offices&tbm=isch) - global co-working space
 
 ## Any Content 📊
 - Kind
@@ -45,6 +44,11 @@ Brands with similar values:
 - Use consistent images (static images or animated images)
     - *Encouraged*: Photos, screenshots of movies or cartoons
     - *Avoid*: Images or drawings of random styles
+
+### References for content:
+- DeepMind - scientifically-correct, pleasant to consume
+- TED - correct, important, pleasant to consume
+- Wikipedia - maximally precise because you can review every edit, organizes an immense amount of information
 
 ## Visual Text Presentation 🔤
 - Pleasant to look at
@@ -99,6 +103,12 @@ Brands with similar values:
 - Intuitive
 - Fast
 
+### Examples
+- [Airtable](https://www.google.com/search?q=Airtable+interface&tbm=isch) - software for tabled data, pleasant UI and use of colors
+- Google Maps
+- Perplexity
+- Stripe
+
 ###
 
 ## Human Interaction 👥
@@ -123,6 +133,10 @@ Brands with similar values:
 - Pleasant temperature
 - Pleasant lighting (a lot of natural lighting but controlled)
 - Intentional artwork
+
+### References for physical settings
+- [ololo](https://www.google.com/search?q=ololo+coworking&tbm=isch) - creative hub in Kyrgyzstan (especially ololoPlanet floors 1, 2 & 3)
+- [WeWork](https://www.google.com/search?q=WeWork+offices&tbm=isch) - global co-working chain
 
 ### Materials & Furniture
 - Comfortable
