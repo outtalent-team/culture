@@ -41,7 +41,7 @@ We want all visual products (website, social media, documentation, software, etc
 - **Excellent & Thoughtful**
     - **Consistent across the whole brand** (font sizes, colors, etc)
     - **Pleasant to look at & consume**
-- Well-balanced between being **minimalist** vs ****being **friendly, uplifting, or delightful**
+- Well-balanced between being **minimalist** vs being **friendly, uplifting, or delightful**
 
 Extra notes
 
