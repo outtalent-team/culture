@@ -1,3 +1,5 @@
+# Business Priorities
+
 When making the most important decisions for our business, we aim to follow these priorities for our business:
 
 1. Excellence
