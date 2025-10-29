@@ -25,3 +25,7 @@ Extra effort should be invested in soft, gentle, and polite communications and a
 Within all interactions related to Outtalent you commit to providing only information that you believe is true, even if it’s uncomfortable for any of the parties involved.
 
 If you become aware that any Outtalent employees, partners, or clients are operating under wrong assumptions, take measures to notify them about it, even if it’s uncomfortable as well.
+
+
+## Delight & Playfulness
+We don't like to be always serious and we don't like to be boring. We try to bring delight, playfulness, and fun whenever it can brighten up the day and show love for everyone around us.
