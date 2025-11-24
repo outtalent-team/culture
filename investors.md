@@ -3,7 +3,7 @@
 ## Skills & Values
 - intelligence - sharp, clear thinker, great analytical & critical thinking skills
 - integrity, honesty, sincerity, politely providing direct difficult feedback
-- high empathy, kindness, intrinsically loves humans
+- loves humans in general, high empathy and kindness
 - doesn't take life too seriously, has a sense of humor
 - believes in enormous potential of humans, humanity, and our company in particular
 
