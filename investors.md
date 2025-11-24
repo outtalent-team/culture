@@ -4,7 +4,7 @@
 - intelligence - sharp, clear thinker, great analytical & critical thinking skills, great at quickly differentiating signal from the noise
 - integrity, honesty, sincerity, politely providing direct difficult feedback
 - loves humans in general, high empathy and kindness
-- doesn't take life too seriously, has a sense of humor
+- doesn't take things way too seriously, has a sense of humor
 - believes in enormous potential of humans, humanity, and our company in particular
 
 ## Commitment
