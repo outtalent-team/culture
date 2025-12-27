@@ -5,12 +5,11 @@ In our team we want to only work with people who deeply value and aspire to the 
 # 1. Truthfulness
 
 We want to operate in the world based on truth rather what is more comfortable to believe.
-We do our best to accept the truth even if it's very painful.
-We only communicate truth to our allies even if will hurt them or even if it's very challenging for us.
+We do our best to get to the truth and accept it even if it's very painful and costly.
 
-We don't accept it when people lie to themselves, to their allies, or the world in general.
+When asked a question by our ally, we commit to only communicating truth even if it's difficult for any of us.
 
-We may not communicate truth only to our enemies but we have extremely few enemies and virtually no real situations to do so.
+We don't like it when people lie to themselves, to their allies, or the world in general.
 
 # 2. Responsibility
 
@@ -33,7 +32,7 @@ We love pleasant design in everything. We avoid making typos.
 
 If we did not achieve excellence, we analyze and improve our processes.
 
-We don't accept it when people make a ton of typos and put little care in how they affect the world and people around the world.
+We don't like it when people make a ton of typos and put little care in how they affect the world and people around the world.
 
 # 4. Thoughtfulness
 
@@ -54,6 +53,9 @@ We accept human imperfections.
 While we try never to make typos or other mistakes, we will inevitably make them sometimes.
 We don't attack or punish ourselves for mistakes. We can laugh about our mistakes.
 Then we analyze them and keep improving our processes.
+
+When we need to communicate truth that is hurtful for the person we will try to do it in a kind way.
+Sometimes that could mean delaying the answer intentionally.
 
 # 6. Ambition
 
