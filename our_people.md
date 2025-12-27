@@ -1,5 +1,3 @@
-[DRAFT]
-
 In our team we want to only work with people who deeply value and aspire to the following.
 
 # 1. Truthfulness
