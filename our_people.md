@@ -16,7 +16,7 @@ We don't like it when people lie to themselves, to their allies, or the world in
 We believe we can significantly affect the world and our life in particular.
 
 When something bad happens, we analyze the situation to understand what our impact was.
-In unclear situations, we default to accepting more responsibility for the bad outcome.
+In unclear situations, we default to accepting responsibility rather than not running away from it.
 
 In social situations, we announce our responsibility and apologize.
 We don't start explaining why we failed if noone is asking. We call that an "excuse".
