@@ -27,12 +27,12 @@ If it can't be changed, we don't complain about, we make peace with it.
 
 # 3. Excellence
 
-We want to always achieve excellence in everything we do.
-We love pleasant design in everything. We avoid making typos.
+We want to always achieve excellence everywhere where it matters.
+We love great design in everything. We avoid making typos.
 
-If we did not achieve excellence, we analyze and improve our processes.
+When we do not achieve excellence, we analyze and improve our processes.
 
-We don't like it when people make a ton of typos and put little care in how they affect the world and people around the world.
+We don't like it when people put very little care in how they affect the world and people around the world.
 
 # 4. Thoughtfulness
 
