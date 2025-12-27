@@ -36,8 +36,7 @@ We don't like it when people put very little care in how they affect the world a
 
 # 4. Thoughtfulness
 
-We love to analyze ourselves.
-We often work with world-class psychotherapists to understand ourselves better.
+We love to constantly analyze ourselves and understand ourselves better.
 This helps us understand other people better too.
 
 We always analyze and correct our thinking processes to minimize irrationalities or other mistakes.
@@ -60,8 +59,6 @@ Sometimes that could mean delaying the answer intentionally.
 # 6. Ambition
 
 We would like to live the best lives possible and affect the world in the biggest way possible.
-We don't like people who are settling for small goals.
-
 We like people who energized and motivated to keep learning, improving, and creating as much as possible.
 
 # 7. Innovation
@@ -71,7 +68,5 @@ We never want to stagnate and do the same thing the same way over and over again
 
 # 8. Fun
 
-We don't like to always be serious.
-We think it's too boring.
-
-We like to make the world and our own experience delightful and fun.
+We don't like to always be serious. We don't like to be boring.
+Where it makes sense, we try to make the world and our own experience more delightful, creative, playful, and fun.
