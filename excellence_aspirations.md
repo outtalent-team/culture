@@ -8,9 +8,9 @@ This document outlines the quality standards we aspire to uphold across all of O
 
 No matter the medium or moment, we want everything about Outtalent to be:
 
-- **Excellent -** people should feel they are “living their best lives” while being with us
-- **Thoughtful** — people should feel that we put in a lot care and intention in everything we do
-- **Friendly** — whenever possible interactions should feel warm, kind, and supported
+- **Excellent** - people should feel they are “living their best lives” while being with us
+- **Thoughtful** — people should feel that we put a lot of care and intention into everything we do
+- **Friendly** — whenever possible, interactions should feel warm, kind, and supported
 - **Uplifting** — we want to help people get more optimistic and more motivated
 - **Delightful** - we hate boring experiences and we love to delight, surprise, and amaze people
 
@@ -36,19 +36,19 @@ Reference companies:
 
 ## 🎨 All Visual Presence
 
-We want all visual products (website, social media, documentation, software, etc) to be:
+We want all visual products (website, social media, documentation, software, etc.) to be:
 
 - **Excellent & Thoughtful**
     - **Consistent across the whole brand** (font sizes, colors, etc)
     - **Pleasant to look at & consume**
 - Well-balanced between being **minimalist** vs being **friendly, uplifting, or delightful**
 
-Extra notes
+Extra notes:
 
 - Complexity must be intelligently organized to make things as easy to understand & as pleasant to look at as possible.
-- For written text, we encourage using small, neatly-organized chunks of text rather than large blocks of text
-- For increased friendliness & delight, we encourage the use of photos, animations, or screenshots of movies or cartoons
-- We strongly discourage the use of images of styles not matching Outtalent brand
+- For written text, we encourage using small, neatly-organized chunks of text rather than large blocks of text.
+- For increased friendliness & delight, we encourage the use of photos, animations, or screenshots of movies or cartoons.
+- We strongly discourage the use of images whose styles do not match the Outtalent brand.
 
 Reference designs:
 
@@ -66,16 +66,25 @@ Reference designs:
 
 ## 📊 Any Content - Text, Audio, and Video
 
-We want all content (website text, presentations, video calls, etc) to be:
+We want all content (website text, presentations, video calls, etc.) to be:
 
 - **Excellent & Thoughtful**
     - **Correct**
     - **Clear & easy to understand**
 - Well-balanced between being **maximally useful & efficient** vs being **friendly, uplifting, or delightful**
 
-Extra notes:
+Special notes on our relation to typos:
 
-- For all chart design use one piece of software for consistency (scientific software, or Notion, or text-based format)
+- Public posts (e.g. social media posts) or emails:
+  - Typos should be rare and corrected when noticed.
+  - Repeated typos signal a need for better review or tooling.
+  
+- 1:1 messaging between a specific person:
+  - Occasional typos are normal but repeated typos (e.g. more than once a day) should be avoided.
+  - Highly important communication should rather be moved to email.
+
+Extra notes:
+- For all chart design, use one piece of software for consistency (scientific software, or Notion, or text-based format)
 
 Reference content:
 
@@ -89,16 +98,16 @@ Reference content:
 
 ### 🎤 Speech & Audio
 
-- A native or near-native **accent in English is welcome** as we celebrate global diversity but it the speech must be extremely **clear and pleasant** to listen to (no “hard” or “strong” accents are ok)
+- A native or near-native **accent in English is welcome** as we celebrate global diversity. However, the speech must be extremely **clear and pleasant** to listen to. Accents that are too “hard” or too “strong” are not acceptable.
     - References:
         - Positive: Arnold Schwarzenegger’s accent - clearly foreign accent but easy to understand
         - Negative: Conor McGregor’s accent - too strong and too hard to understand
-- **Excellence sound quality**
+- **Excellent sound quality**
 - In recorded videos or podcasts: **thoughtful use of music**
 
 Extra notes:
 
-- At the beginning of the calls, pleasure ensure that the sound quality is good and ask to notify you if the quality falls below a very pleasant comfortable level
+- At the beginning of the calls, ensure that the sound quality is good and ask to notify you if the quality falls below a very pleasant and comfortable level
 
 References:
 
@@ -122,10 +131,10 @@ References:
 
 **🖼️ Video Calls Background**
 
-Please thoughtfully setup one or more physical spaces for video calls:
+Please thoughtfully set up one or more physical spaces for video calls:
 
 - We strongly encourage using a real well-prepared physical space as a background
-- It’s good when your background can naturally highlights your values or interests
+- It’s good when your background can naturally highlight your values or interests
 - You can use a unique intentional image background as a backup in rare cases where you are not in your prepared space
 - We strongly discourage blurring your physical space
 - We strongly discourage using popular Zoom backgrounds
@@ -144,14 +153,15 @@ Our learning content should:
 - **Excellent**
     - Sequential - every new term should be introduced thoughtfully
 - **Thoughtful**
-    - Explain complex things as simply as possible
-    - Use visuals where possible to help deeper understand the concept
+    - Explain complex concepts as simply as possible
+    - Use visuals where possible to help people understand the concept more deeply
 - **Friendly**
     - Kind, warm, and welcoming (not arrogant or demeaning)
     - Where it makes sense, feature people (either their faces or at least their names)
 - **Uplifting**
     - Congratulate the learner wherever possible
-- **Delightful** - never be boring add fun delightful things where possible
+- **Delightful**
+    - Avoid being too boring; try to add fun, delightful elements where possible
 
 References:
 
@@ -304,6 +314,6 @@ References
     - Whole Foods Market - healthy food chain
     - Sweetgreen - salad store chain
 
-Lastly, we will add that we know that we can never be perfect but we will always aspire to provide magically wonderful experiences that lead to great results for everyone who interacts with us as much as we can. 🙏
+Lastly, we know that we can never be perfect. However, we will always aspire to provide magically wonderful experiences that lead to great results for everyone who interacts with us. 🪄✨✨✨
 
 ---
