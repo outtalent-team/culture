@@ -10,7 +10,3 @@
 ## Commitment
 - Quarterly feedback: commits 1 hour per quarter on a video call to listen to our update & strategy, provide feedback & ideas
 - Introductions: has strong reputation & network with other world-class value-aligned investors; intros often lead to immediate follow-up meetings
-
-Notable examples in our experience:
-- David Lieb
-- Kevin Weil
