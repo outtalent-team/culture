@@ -8,6 +8,5 @@
 - believes in enormous potential of humans, humanity, and our company in particular
 
 ## Commitment
-- One-off strategic feedback: can dedicate approximately 1 hour per quarter to provide feedback on our progress and our strategy
-- Minimal monthly feedback: we provide monthly updates and would like to receive at least very minimal feedback every month too
-- Introductions: we are looking for investors that can provide strong introductions that lead to quick follow-up meetings with other value-aligned investors
+- Quarterly feedback: commits 1 hour per quarter on a video call to listen to our update & strategy, provide feedback & ideas
+- Introductions: able to provide strong intros that lead to quick follow-up meetings with other world-class value-aligned investors
