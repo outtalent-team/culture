@@ -75,13 +75,13 @@ We want all content (website text, presentations, video calls, etc.) to be:
 
 Special notes on our relation to typos:
 
-- Public posts (e.g. social media posts) or emails:
+- Public posts (e.g. social media posts), emails / Slack, internal documentation:
   - Typos should be rare and corrected when noticed.
   - Repeated typos signal a need for better review or tooling.
   
-- 1:1 messaging between a specific person:
+- 1:1 messaging with a specific person:
   - Occasional typos are normal but repeated typos (e.g. more than once a day) should be avoided.
-  - Highly important communication should rather be moved to email.
+  - Highly important communication should rather be moved to email or Slack.
 
 Extra notes:
 - For all chart design, use one piece of software for consistency (scientific software, or Notion, or text-based format)
