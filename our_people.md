@@ -48,9 +48,9 @@ We aim not to overthink and use rigorous thinking to make decisions quickly.
 # 5. Critical Thinking  
   
 We constantly analyze and correct our thinking processes to minimize irrationalities or other mistakes.  
-We love writing, using tables, diagrams and other tools to think more clearly and more precisely.  
+We constantly write, using table, diagrams and other thinking tools to think more clearly and more precisely.  
   
-We try to communicate very clearly and precisely too.  
+We always try to communicate very clearly and precisely too.  
   
 # 6. Kindness  
   
