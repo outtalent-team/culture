@@ -52,17 +52,23 @@ Suggestions:
 
 ## Best practices
 
-1. Writing for better thinking
+1. Write at least daily
 
 Writing forces people to convert vague thoughts and feelings into specific words and structure.
 Once thoughts are written out, flaws in logic are often immediately visible.
 
-2. Keep learning about common human thinking fallacies
+2. Use tables where possible.
+
+For example, if you are deciding between two or more options it may be good to lay them as a list of columns and list judgement criteria as a list of rows.
+
+3. Use diagrams, where possible.
+
+4. Keep learning about common human thinking fallacies
 
 A lot is already written about human fallacies.
 For example, on positive reinforcement or sunk cost fallacy.
 
-3. Learn about your personal fallacies
+5. Learn about your personal fallacies
 
 We believe personal fallacies are often influenced by past experiences, including stressful or traumatic ones.
 When a subject is related to a person's traumatic experience they are much less likely to think about this subject correctly.
