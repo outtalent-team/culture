@@ -33,14 +33,17 @@ When we do not achieve excellence, we analyze and improve our processes.
 We love to analyze ourselves and understand ourselves better.
 This helps us understand other people better too.
 
-We always analyze and correct our thinking processes to minimize irrationalities or other mistakes.
-
 We love to think long-term, plan, and iterate on our plans.
 We love to set goals and design everything very intentionally.
 
 We aim not to overthink and use rigorous thinking to make decisions quickly.
 
-# 5. Kindness
+# 5. Critical Thinking
+
+We constantly analyze and correct our thinking processes to minimize irrationalities or other mistakes.
+We love writing, using tables, diagrams and other tools to think more clearly and more precisely.
+
+# 6. Kindness
 
 We love being humans and we love humans in general.
 We accept human imperfections.
@@ -52,17 +55,17 @@ Then we analyze them and keep improving our processes.
 When we need to communicate truth that is hurtful for the person we will try to do it in a kind way.
 Sometimes that could mean delaying the answer intentionally.
 
-# 6. Ambition
+# 7. Ambition
 
 We would like to live the best lives possible and affect the world in the biggest way possible.
 We like people who are energized and motivated to keep learning, improving, and creating as much as possible.
 
-# 7. Innovation
+# 8. Innovation
 
 We always try to keep learning, improving, and innovating.
 We never want to stagnate and do the same thing the same way over and over again just because it's comfortable.
 
-# 8. Fun
+# 9. Fun
 
 We don't like to always be serious. We don't like to be boring.
 Where it makes sense, we try to make the world and our own experience more delightful, creative, playful, and fun.
