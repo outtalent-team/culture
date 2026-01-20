@@ -1,5 +1,7 @@
-In our team we want to only work with people who deeply value and aspire to the following.  
-  
+This list resembles the general list of Outtalent values but it breaks down the subjects into more details
+and add some people-focused specifics.
+
+This list is meant to be used in hiring and team management.
 
 # 1. Truthfulness  
   
