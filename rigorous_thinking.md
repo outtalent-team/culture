@@ -1,9 +1,9 @@
-At Outtalent, we love humans.
+At Outtalent, we love humans.  
+  
+We see a lot of human strengths and we see a lot of fallacies too.  
+Here we are going to focus on human fallacies in thinking and offer ways to overcome them.  
 
-We see a lot of human strengths and we see a lot of fallacies too.
-Here we are going to focus on human fallacies in thinking and suggested ways to overcome them.
-
-This document is designed for Outtalent team members, fellows, as well as people who might join Outtalent in any of those or other capacities.
+This document is designed for Outtalent team members, fellows, as well as people who might join Outtalent in any of those or other capacities.  
 
 # Rigorous Thinking
 
