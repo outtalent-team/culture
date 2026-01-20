@@ -46,7 +46,7 @@ Obviously, non of those people are ideal and have some traits we don't approve o
 - Jessica Alba (United States)
 - Leonardo Di Caprio (United States)
 
-**Politics**
+**Politics & Activism** (it doesn't mean we support all or a lot of their decisions)
 - Barack Obama (United States)
 - Emmanuel Macron (France)
 - Garry Kasparov (Russia)
