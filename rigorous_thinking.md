@@ -19,8 +19,6 @@ Example errors:
 - "Google is the best employer for software engineers."
 - "He made very toxic comments."
 - "CodeSignal is one of the best platforms for coding interviews."
-- "We had many strong applicants last month."
-- "Our candidates are very excited and eager to contribute to the international landscape of developers."
 
 Suggestions:
 - Clarify the basis of your opinion (experience, observation, data, feedback).
