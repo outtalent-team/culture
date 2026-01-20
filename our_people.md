@@ -1,7 +1,11 @@
-This list resembles the general list of Outtalent values but it breaks down the subjects into more details
-and add some people-focused specifics.
+This document presents the list of things we want all employees at Outtalent to value.
+We would like most of our clients to be very close to our own values too.
 
-This list is meant to be used in hiring and team management.
+This list resembles the general list of Outtalent values but it breaks down those values into more details
+and adds more people-focused values. 
+
+It is meant to be used in hiring, team management and other processes.
+
 
 # 1. Truthfulness  
   
