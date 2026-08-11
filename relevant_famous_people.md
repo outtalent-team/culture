@@ -8,9 +8,6 @@ Obviously, non of those people are ideal and have some traits we don't approve o
 - using humor & being playfulness where appropriate
 
 **Educators**
-- Andy Weir (United States)
-
-**Educators**
 - Grant Sanderson aka 3Blue1Brown (United States)
 - Brian Greene (United States)
 
@@ -26,6 +23,7 @@ Obviously, non of those people are ideal and have some traits we don't approve o
 **Authors, thinkers, podcasters**
 - Tim Ferriss (United States)
 - Liv Boeree (United Kingdom)
+- Andy Weir (United States)
 
 **Investors**
 - Mark Andreesen, a16z (United States)
